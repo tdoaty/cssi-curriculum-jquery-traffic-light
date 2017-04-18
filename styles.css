@@ -26,5 +26,9 @@ button {
   top: 40px;
   position: relative;
   text-align: center;
-  
+
+}
+
+.blink{
+  background-color: green;
 }
